@@ -26,8 +26,12 @@ The full project is hosted on our shared GitHub repo:
 - JUnit
 - XML
 
+## Here is a preview of the app:
 
 ![appcion (1)](https://github.com/CMPUT301W24T05/PlaceHolderProjectName/assets/132036962/b677a8cd-ac2d-4bb3-9897-e9e8e2760535) 
+
 ![browsing_events_gif](https://github.com/user-attachments/assets/531f32f4-bdf9-4af1-8aa3-fc1a5ad3b0d4)
+
 ![checkin_event_gif](https://github.com/user-attachments/assets/33d27029-3598-43b7-af5f-73c30e380b8a)
+
 ![manage_event_info](https://github.com/user-attachments/assets/ba098c0a-3998-44c4-b291-744df926e106)
