@@ -1,0 +1,35 @@
+# Teen Mental Health Dataset – Exploratory Data Analysis Report
+
+## Introduction
+This report presents an exploratory data analysis (EDA) of a teen mental health dataset using Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and SciPy. The purpose of the analysis was to examine the structure and quality of the dataset, identify behavioral patterns related to social media usage, and explore variables connected to teen mental health outcomes.
+
+The analysis focused on:
+- Dataset structure and descriptive statistics
+- Data quality assessment
+- Social media platform usage patterns
+- Social interaction levels
+- Outlier detection in numerical variables
+
+---
+
+# Tools and Libraries Used
+
+The following Python libraries were used:
+
+- Pandas for data manipulation and exploration
+- NumPy for numerical operations
+- Matplotlib for visualizations
+- Seaborn for advanced plotting
+- SciPy for statistical testing
+
+---
+
+# Dataset Overview
+
+The dataset was imported into a Pandas DataFrame and explored using the following functions:
+
+```python
+df.head()
+df.describe()
+df.info()
+df.shape
